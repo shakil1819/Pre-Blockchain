@@ -8,5 +8,6 @@
     "color-blocks",
     "responsive-yt"
   ],
-  "translucency": true
+  "translucency": true,
+  "nativeMenus": true
 }
