@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
+                "file": "FreeCodeCamp-JS/FreeCodeCamp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md"
+                "file": "FreeCodeCamp-JS/FreeCodeCamp.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "93e9f77961b9b371",
   "lastOpenFiles": [
-    "Educative.io/1. Introduction - Understanding Blockchain/3.Cost of Trust in the Financial Industry.md",
+    "README.md",
     "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
+    "Educative.io/1. Introduction - Understanding Blockchain/3.Cost of Trust in the Financial Industry.md",
     "Educative.io/1. Introduction - Understanding Blockchain/2.Lack of Trust.md",
     "Educative.io/1. Introduction - Understanding Blockchain/1.What is Blockchain.md",
     "Educative.io/1. Introduction - Understanding Blockchain/0.Introduction.md",
@@ -254,7 +255,6 @@
     "Week 1/0.Overview of Machine Learning/3.Intake Survey.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/5.Jupyter Notebooks.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/4.Unsupervised learning.md",
-    "Week 1/1.Supervised Unsupervised Machine Learning/3.Unsupervised learning.md",
     "Untitled.canvas"
   ]
 }
