@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=M576WGiDBdQ
 
 <iframe title="How to become a Blockchain Developer in 2022?  | 🔥 Complete Roadmap + Salary + Tech Stack" src="https://www.youtube.com/embed/uULy2rc6YDc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
+<iframe title="Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity" src="https://www.youtube.com/embed/coQ5dg8wM2o?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
