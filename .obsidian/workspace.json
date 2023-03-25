@@ -8,85 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ffd46034fe1c5a6",
+            "id": "9bacc07dae1d8549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educative.io/Course description - Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79926028107b925a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/0.Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4008b8396db45002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/1.What is Blockchain.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8086dc2e67b15d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/2.Lack of Trust.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "247ec2a4f96c9799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/3.Cost of Trust in the Financial Industry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93e9f77961b9b371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FreeCodeCamp-JS/FreeCodeCamp.md",
+                "file": "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FreeCodeCamp-JS/FreeCodeCamp.md"
+                "file": "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md"
               }
             }
           },
@@ -207,19 +141,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93e9f77961b9b371",
+  "active": "28c312cd65e2be84",
   "lastOpenFiles": [
+    "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230326044813.png",
+    "Educative.io/1. Introduction - Understanding Blockchain/5.Terminology.md",
+    "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
+    "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
+    "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230326044359.png",
+    "FreeCodeCamp-JS/FreeCodeCamp.md",
     "FreeCodeCamp-JS/attachments/mega_project.zip",
     "FreeCodeCamp-JS/attachments/Mega Project Report-5.pdf",
     "FreeCodeCamp-JS/attachments",
     "README.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
     "Educative.io/1. Introduction - Understanding Blockchain/3.Cost of Trust in the Financial Industry.md",
     "Educative.io/1. Introduction - Understanding Blockchain/2.Lack of Trust.md",
     "Educative.io/1. Introduction - Understanding Blockchain/1.What is Blockchain.md",
     "Educative.io/1. Introduction - Understanding Blockchain/0.Introduction.md",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments/1-0-Introduction.pdf",
-    "FreeCodeCamp-JS/FreeCodeCamp.md",
     "FreeCodeCamp-JS",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230312025045.png",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments",
@@ -238,7 +176,6 @@
     "Learn Blockchain - JS/1-Introduction/3. What is blockchain.md",
     "Learn Blockchain - JS/Untitled.md",
     "Learn Blockchain - JS/1-Introduction/attachments",
-    "Learn Blockchain - JS/1-Introduction",
     "Week 1/3.Regression Model/1-1 Lab - Model representation.md",
     "Week 1/3.Regression Model/2.Cost function formula.md",
     "Week 1/3.Regression Model/1.Linear regression model part 2.md",
@@ -246,15 +183,12 @@
     "Week 1/3.Regression Model/attachments/Pasted image 20230310124353.png",
     "Week 1/3.Regression Model/attachments/Pasted image 20230310124158.png",
     "Week 1/3.Regression Model/attachments/Pasted image 20230310124148.png",
-    "Week 1/3.Regression Model/attachments/Pasted image 20230310124026.png",
     "Pasted image 20230309094424.png.md",
     "Pasted image 20230310015848.png.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/Python and Jupyter Notebooks.md",
     "Week 1/Module 1.md",
     "Week 1/Syllabus.md",
     "Week 1/2.Practice quiz/Page 0.md",
-    "Week 1/0.Overview of Machine Learning/3.Intake Survey.md",
-    "Week 1/1.Supervised Unsupervised Machine Learning/5.Jupyter Notebooks.md",
     "Untitled.canvas"
   ]
 }
