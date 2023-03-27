@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
+                "file": "FreeCodeCamp-JS/FreeCodeCamp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5d7ad91ab68906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/0.Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 469.5
   },
   "right": {
     "id": "0c799eff9ce64e70",
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md"
+                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/0.Introduction.md"
               }
             }
           },
@@ -141,15 +155,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "28c312cd65e2be84",
+  "active": "1e5d7ad91ab68906",
   "lastOpenFiles": [
+    "FreeCodeCamp-JS/FreeCodeCamp.md",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/0.Introduction.md",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain",
     "Timestamp For the project.md",
+    "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230326044813.png",
     "Educative.io/1. Introduction - Understanding Blockchain/5.Terminology.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
     "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230326044359.png",
-    "FreeCodeCamp-JS/FreeCodeCamp.md",
     "FreeCodeCamp-JS/attachments/mega_project.zip",
     "FreeCodeCamp-JS/attachments/Mega Project Report-5.pdf",
     "FreeCodeCamp-JS/attachments",
@@ -176,7 +192,6 @@
     "Learn Blockchain - JS/1-Introduction/2.Layout.md",
     "Learn Blockchain - JS/1-Introduction/3. What is blockchain.md",
     "Learn Blockchain - JS/Untitled.md",
-    "Learn Blockchain - JS/1-Introduction/attachments",
     "Week 1/3.Regression Model/1-1 Lab - Model representation.md",
     "Week 1/3.Regression Model/2.Cost function formula.md",
     "Week 1/3.Regression Model/1.Linear regression model part 2.md",
@@ -188,7 +203,6 @@
     "Week 1/1.Supervised Unsupervised Machine Learning/Python and Jupyter Notebooks.md",
     "Week 1/Module 1.md",
     "Week 1/Syllabus.md",
-    "Week 1/2.Practice quiz/Page 0.md",
     "Untitled.canvas"
   ]
 }
