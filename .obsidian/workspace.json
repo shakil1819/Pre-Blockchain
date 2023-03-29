@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fbdaafc13f1a4f2",
+        "id": "048a6061a2f89462",
         "type": "tabs",
         "children": [
           {
-            "id": "409ecd4d7bfca1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/1.Hash Functions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71484d87918777a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/2.Public Key Cryptography.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "def6510e9c1b6197",
+            "id": "02ed2f2079d9b105",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,25 +21,12 @@
             }
           },
           {
-            "id": "5a89b8dc07863c21",
+            "id": "57a43c7aaa5f74ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDP/Dataset.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20d301643870b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDP/Important notes.md",
+                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/4.Digital Signatures using Public Key Cryptography.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDP/Important notes.md"
+                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/4.Digital Signatures using Public Key Cryptography.md"
               }
             }
           },
@@ -194,30 +155,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b20d301643870b3e",
+  "active": "57a43c7aaa5f74ef",
   "lastOpenFiles": [
-    "IDP/Dataset.md",
-    "IDP/Important notes.md",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329080029.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075827.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075422.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075405.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075342.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075322.png",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md",
-    "IDP",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/4.Digital Signatures using Public Key Cryptography.md",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075240.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329075223.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329074616.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329074604.png",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230329074550.png",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/2.Public Key Cryptography.md",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328010404.png",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328010137.png",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328010114.png",
+    "IDP/Dataset.md",
+    "IDP/OTP implementation.md",
+    "IDP/attachments",
+    "IDP",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/1.Hash Functions.md",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328005907.png",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328005824.png",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328005750.png",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments",
     "FreeCodeCamp-JS/FreeCodeCamp.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/0.Introduction.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain",
     "Timestamp For the project.md",
     "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230326044813.png",
     "Educative.io/1. Introduction - Understanding Blockchain/5.Terminology.md",
     "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230326044359.png",
     "FreeCodeCamp-JS/attachments/mega_project.zip",
     "FreeCodeCamp-JS/attachments/Mega Project Report-5.pdf",
     "FreeCodeCamp-JS/attachments",
@@ -228,11 +194,8 @@
     "Educative.io/1. Introduction - Understanding Blockchain/0.Introduction.md",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments/1-0-Introduction.pdf",
     "FreeCodeCamp-JS",
-    "Educative.io/1. Introduction - Understanding Blockchain/attachments/Pasted image 20230312025045.png",
     "Educative.io/1. Introduction - Understanding Blockchain/attachments",
     "Educative.io/Course description - Links.md",
-    "Educative.io/1. Introduction - Understanding Blockchain",
-    "Educative.io/attachments/Pasted image 20230312024826.png",
     "Learn Blockchain - JS/1-Introduction/1.Environment Setup.md",
     "Untitled.md",
     "Learn Blockchain - JS/1-Introduction/2.Layout.md",
@@ -240,8 +203,6 @@
     "Learn Blockchain - JS/Untitled.md",
     "Week 1/3.Regression Model/1-1 Lab - Model representation.md",
     "Week 1/3.Regression Model/2.Cost function formula.md",
-    "Week 1/3.Regression Model/1.Linear regression model part 2.md",
-    "Week 1/3.Regression Model/0.Linear regression model part 1.md",
     "Untitled.canvas"
   ]
 }
