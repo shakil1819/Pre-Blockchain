@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a89b8dc07863c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDP/Dataset.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b20d301643870b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDP/Important notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md"
+                "file": "IDP/Important notes.md"
               }
             }
           },
@@ -168,10 +194,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "def6510e9c1b6197",
+  "active": "b20d301643870b3e",
   "lastOpenFiles": [
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/2.Public Key Cryptography.md",
+    "IDP/Dataset.md",
+    "IDP/Important notes.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md",
+    "IDP",
+    "Educative.io/2.The technology pre-reqs for understanding blockchain/2.Public Key Cryptography.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328010404.png",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328010137.png",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/attachments/Pasted image 20230328010114.png",
@@ -204,7 +233,6 @@
     "Educative.io/Course description - Links.md",
     "Educative.io/1. Introduction - Understanding Blockchain",
     "Educative.io/attachments/Pasted image 20230312024826.png",
-    "Educative.io/attachments",
     "Learn Blockchain - JS/1-Introduction/1.Environment Setup.md",
     "Untitled.md",
     "Learn Blockchain - JS/1-Introduction/2.Layout.md",
@@ -214,8 +242,6 @@
     "Week 1/3.Regression Model/2.Cost function formula.md",
     "Week 1/3.Regression Model/1.Linear regression model part 2.md",
     "Week 1/3.Regression Model/0.Linear regression model part 1.md",
-    "Pasted image 20230309094424.png.md",
-    "Pasted image 20230310015848.png.md",
     "Untitled.canvas"
   ]
 }
