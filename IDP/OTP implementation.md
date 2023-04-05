@@ -111,3 +111,6 @@ app.listen(3000, () => {
 ```
 
 Note that in a real-world application, you'll need to associate the generated secret key with the user's account and store it securely. You'll also need to implement rate limiting and other security measures to prevent brute-force attacks against the 2-factor authentication code.
+
+
+https://firebase.google.com/docs/auth/web/email-link-auth?authuser=0#web-version-9
