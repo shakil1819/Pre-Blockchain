@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5316d230e9dc61b",
+            "id": "fa4148597938de4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera Blockchain Basics/Module 1/3.Basic Operations/0.VIDEO.md",
+                "file": "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/0.VIDEO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f6693ce09e76522d",
+            "id": "e87d0a0b6b3db936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera Blockchain Basics/Module 1/3.Basic Operations/1.READING.md",
+                "file": "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/1.READING.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "972d1205043ea1c4",
+            "id": "b8c10a979fd1fafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera Blockchain Basics/Module 1/3.Basic Operations/2.QUIZ.md",
+                "file": "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/2.QUIZ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursera Blockchain Basics/Module 1/3.Basic Operations/2.QUIZ.md"
+                "file": "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/2.QUIZ.md"
               }
             }
           },
@@ -168,12 +168,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "972d1205043ea1c4",
+  "active": "b8c10a979fd1fafb",
   "lastOpenFiles": [
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/attachments/Pasted image 20230408225025.png",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/attachments/Pasted image 20230408224849.png",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/1.READING.md",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/attachments/Pasted image 20230408224754.png",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/attachments/Pasted image 20230408224720.jpg",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/0.VIDEO.md",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/2.QUIZ.md",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/attachments/index_4.mp4",
+    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin/attachments",
+    "Coursera Blockchain Basics/Module 1/3.Basic Operations/2.QUIZ.md",
     "Coursera Blockchain Basics/Module 1/3.Basic Operations/attachments/Pasted image 20230408224015.png",
     "Coursera Blockchain Basics/Module 1/3.Basic Operations/attachments/Pasted image 20230408223925.png",
     "Coursera Blockchain Basics/Module 1/3.Basic Operations/1.READING.md",
-    "Coursera Blockchain Basics/Module 1/3.Basic Operations/2.QUIZ.md",
     "Educative.io/3.Blockchain data storage/1.Blockchain Data Structure.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/2.Public Key Cryptography.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/5.Public Key Infrastructure.md",
@@ -191,11 +200,7 @@
     "Coursera Blockchain Basics/Module 1/2.Blockchain Structure/attachments/index_2.mp4",
     "Coursera Blockchain Basics/Module 1/2.Blockchain Structure/attachments",
     "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/2.Practice Quiz.md",
-    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/attachments/Pasted image 20230408210655.png",
-    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/attachments/Pasted image 20230408210555.png",
     "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/1.Reading.md",
-    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/attachments/Pasted image 20230408210449.png",
-    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/attachments/Pasted image 20230408210421.jpg",
     "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/0.Video.md",
     "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/attachments/index.mp4",
     "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/attachments",
@@ -205,17 +210,12 @@
     "Coursera Blockchain Basics/Module 1/0.Blockchain/attachments/0.Practitioner's Perspective- John Wolpert, ConsenSys.webm",
     "Coursera Blockchain Basics/Module 1/0.Blockchain/attachments",
     "Coursera Blockchain Basics/Module 1/Module 1.md",
-    "Coursera Blockchain Basics/Module 1/5.Week 1 Evaluation - Blockchain defined",
-    "Coursera Blockchain Basics/Module 1/4.Beyond Bitcoin",
     "Coursera Blockchain Basics/Link.md",
     "Untitled.md",
     "Educative.io/3.Blockchain data storage/2.Blockchain Playground.md",
     "README.md",
     "IDP/OTP implementation.md",
     "Educative.io/3.Blockchain data storage/3.Blockchain Big Picture.md",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/4.Digital Signatures using Public Key Cryptography.md",
-    "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md",
-    "IDP/Dataset.md",
     "Untitled.canvas"
   ]
 }
