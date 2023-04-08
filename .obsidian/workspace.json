@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "048a6061a2f89462",
+        "id": "dcc5da552c067b12",
         "type": "tabs",
         "children": [
           {
-            "id": "02ed2f2079d9b105",
+            "id": "ca71bee7eab56ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57a43c7aaa5f74ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/4.Digital Signatures using Public Key Cryptography.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3468a53eb6a3e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/2.The technology pre-reqs for understanding blockchain/5.Public Key Infrastructure.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaa23d681dee440f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/3.Blockchain data storage/1.Blockchain Data Structure.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "764450b5776f3125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educative.io/3.Blockchain data storage/2.Blockchain Playground.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e509af4da19254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDP/OTP implementation.md",
+                "file": "Coursera Blockchain Basics/Module 1/Module 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDP/OTP implementation.md"
+                "file": "Coursera Blockchain Basics/Module 1/Module 1.md"
               }
             }
           },
@@ -207,13 +141,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7e509af4da19254",
+  "active": "ca71bee7eab56ef6",
   "lastOpenFiles": [
+    "Coursera Blockchain Basics/Module 1/attachments/Pasted image 20230408184254.png",
+    "Coursera Blockchain Basics/Module 1/attachments",
+    "Coursera Blockchain Basics/Link.md",
+    "Coursera Blockchain Basics/Module 1/Module 1.md",
+    "Coursera Blockchain Basics/Module 1",
+    "Untitled.md",
+    "Coursera Blockchain Basics",
+    "Timestamp For the project.md",
+    "Educative.io/3.Blockchain data storage/2.Blockchain Playground.md",
+    "README.md",
+    "IDP/OTP implementation.md",
     "Educative.io/3.Blockchain data storage/3.Blockchain Big Picture.md",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331090422.png",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331090403.png",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331090339.png",
-    "Educative.io/3.Blockchain data storage/2.Blockchain Playground.md",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331090014.png",
     "Educative.io/3.Blockchain data storage/1.Blockchain Data Structure.md",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331082634.png",
@@ -229,7 +173,6 @@
     "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/2.Public Key Cryptography.md",
     "IDP/Dataset.md",
-    "IDP/OTP implementation.md",
     "IDP/attachments",
     "IDP",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/1.Hash Functions.md",
@@ -237,23 +180,15 @@
     "FreeCodeCamp-JS/FreeCodeCamp.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/0.Introduction.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain",
-    "Timestamp For the project.md",
     "Educative.io/1. Introduction - Understanding Blockchain/6.Recap.md",
     "Educative.io/1. Introduction - Understanding Blockchain/5.Terminology.md",
     "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
     "FreeCodeCamp-JS/attachments/mega_project.zip",
-    "FreeCodeCamp-JS/attachments/Mega Project Report-5.pdf",
-    "FreeCodeCamp-JS/attachments",
-    "README.md",
     "Educative.io/1. Introduction - Understanding Blockchain/3.Cost of Trust in the Financial Industry.md",
     "Educative.io/1. Introduction - Understanding Blockchain/2.Lack of Trust.md",
     "Educative.io/1. Introduction - Understanding Blockchain/1.What is Blockchain.md",
     "Educative.io/1. Introduction - Understanding Blockchain/0.Introduction.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/attachments/1-0-Introduction.pdf",
     "Educative.io/Course description - Links.md",
-    "Learn Blockchain - JS/1-Introduction/1.Environment Setup.md",
-    "Untitled.md",
-    "Learn Blockchain - JS/1-Introduction/2.Layout.md",
     "Untitled.canvas"
   ]
 }
