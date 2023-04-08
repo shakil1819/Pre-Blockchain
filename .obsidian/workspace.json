@@ -39,7 +39,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera Blockchain Basics/Module 1/0.Blockchain/1.Reading.md",
+                "file": "Coursera Blockchain Basics/Module 1/0.Blockchain/0. Video.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d76f0eddb45d44e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/0.Video.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e91b95febaf380c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/1.Reading.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8f74e190903c5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/0.Video.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursera Blockchain Basics/Module 1/0.Blockchain/1.Reading.md"
+                "file": "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/0.Video.md"
               }
             }
           },
@@ -168,11 +207,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "353303e8b05b8a67",
+  "active": "e8f74e190903c5c2",
   "lastOpenFiles": [
-    "Coursera Blockchain Basics/Module 1/0.Blockchain/attachments/Pasted image 20230408190039.jpg",
+    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/2.Practice Quiz.md",
+    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/1.Reading.md",
+    "Coursera Blockchain Basics/Module 1/1.Bitcoin & Blockchain/0.Video.md",
     "Coursera Blockchain Basics/Module 1/0.Blockchain/0. Video.md",
     "Coursera Blockchain Basics/Module 1/0.Blockchain/1.Reading.md",
+    "Coursera Blockchain Basics/Module 1/0.Blockchain/attachments/Pasted image 20230408190039.jpg",
     "Coursera Blockchain Basics/Module 1/0.Blockchain/attachments/0.Practitioner's Perspective- John Wolpert, ConsenSys.webm",
     "Coursera Blockchain Basics/Module 1/0.Blockchain/attachments",
     "Coursera Blockchain Basics/Module 1/Module 1.md",
@@ -201,7 +243,6 @@
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331082545.png",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331081946.png",
     "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331081916.png",
-    "Educative.io/3.Blockchain data storage/attachments/Pasted image 20230331081854.png",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/5.Public Key Infrastructure.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/4.Digital Signatures using Public Key Cryptography.md",
     "Educative.io/2.The technology pre-reqs for understanding blockchain/3.Secure Communication using Public Key Cryptography.md",
@@ -214,8 +255,6 @@
     "Educative.io/1. Introduction - Understanding Blockchain/5.Terminology.md",
     "Educative.io/1. Introduction - Understanding Blockchain/4.Supply Chain.md",
     "Educative.io/1. Introduction - Understanding Blockchain/3.Cost of Trust in the Financial Industry.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/2.Lack of Trust.md",
-    "Educative.io/1. Introduction - Understanding Blockchain/1.What is Blockchain.md",
     "Untitled.canvas"
   ]
 }
