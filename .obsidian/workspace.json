@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2ff6ab561acd4a33",
+        "id": "9761551cbf9c53de",
         "type": "tabs",
         "children": [
           {
-            "id": "012d2324968eb5e7",
+            "id": "98f7034db3cb4675",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 4/3.Forks/0.Video.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5645f0bc7adbf20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 4/3.Forks/1.Reading.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1abdb2de0f38825e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 4/3.Forks/2.Quiz.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Coursera Blockchain Basics/Module 4/3.Forks/2.Quiz.md"
+              }
             }
           },
           {
@@ -134,53 +168,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "012d2324968eb5e7",
+  "active": "1abdb2de0f38825e",
   "lastOpenFiles": [
+    "Coursera Blockchain Basics/Module 4/3.Forks/attachments/Pasted image 20230421121123.png",
+    "Coursera Blockchain Basics/Module 4/3.Forks/attachments/Pasted image 20230421120936.png",
+    "Coursera Blockchain Basics/Module 4/3.Forks/1.Reading.md",
+    "Coursera Blockchain Basics/Module 4/3.Forks/attachments/Pasted image 20230421120750.png",
+    "Coursera Blockchain Basics/Module 4/3.Forks/attachments/Pasted image 20230421120730.jpg",
+    "Coursera Blockchain Basics/Module 4/3.Forks/0.Video.md",
+    "Coursera Blockchain Basics/Module 4/3.Forks/attachments/index.mp4",
+    "Coursera Blockchain Basics/Module 4/3.Forks/attachments",
+    "Coursera Blockchain Basics/Module 4/3.Forks/2.Quiz.md",
+    "Coursera Blockchain Basics/Module 4/3.Forks",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/0.video.md",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/1.reading.md",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/2.quiz.md",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/Pasted image 20230421120125.png",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/Pasted image 20230421115559.png",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/Pasted image 20230421115529.png",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/Pasted image 20230421115500.jpg",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/index_3.mp4",
+    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/2.quiz.md",
+    "Coursera Blockchain Basics/Module 4/2.Robustness",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/attachments/Pasted image 20230421075214.png",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/attachments/Pasted image 20230421074533.png",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/1.Reading.md",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/attachments/Pasted image 20230421074109.png",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/0.1 video 2.md",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/0.Video.md",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/attachments/index.mp4",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/attachments/index_2.mp4",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/attachments",
+    "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/New folder",
+    "Coursera Blockchain Basics/Module 4/0.Decentralized Systems/2.Quiz.md",
+    "Coursera Blockchain Basics/Module 4/0.Decentralized Systems/1.Reading.md",
+    "Coursera Blockchain Basics/Module 4/0.Decentralized Systems/0.Video.md",
+    "Coursera Blockchain Basics/Module 4/Untitled.md",
+    "Coursera Blockchain Basics/Module 4/Overview.md",
     "Coursera Blockchain Basics/Module 3/Week 3 Evaluation/0.Reading.md",
     "Coursera Blockchain Basics/Module 3/Week 3 Evaluation/1.Quiz.md",
-    "Coursera Blockchain Basics/Module 3/Week 3 Evaluation/attachments/Pasted image 20230415175344.png",
-    "Coursera Blockchain Basics/Module 3/Week 3 Evaluation/attachments/Pasted image 20230415174858.png",
-    "Coursera Blockchain Basics/Module 3/Week 3 Evaluation/attachments",
     "Coursera Blockchain Basics/Module 3/Untitled.md",
-    "Coursera Blockchain Basics/Module 3/Week 3 Evaluation",
     "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/2.Quiz.md",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/attachments/Pasted image 20230415174724.png",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/attachments/Pasted image 20230415174607.png",
     "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/1.Reading.md",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/attachments/Pasted image 20230415174446.png",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/attachments/Pasted image 20230415174426.jpg",
     "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/0.Video.md",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/attachments/index_4.mp4",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/attachments",
     "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/2.Quiz.md",
-    "Coursera Blockchain Basics/Module 3/3.Securing Blockchain",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/attachments/Pasted image 20230415172512.png",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/attachments/Pasted image 20230415172424.png",
     "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/1.Reading.md",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/attachments/Pasted image 20230415172222.png",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/attachments/Pasted image 20230415172206.jpg",
     "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/0.Video.md",
     "Coursera Blockchain Basics/Module 3/0.Public-key cryptography/0.Video.md",
-    "Coursera Blockchain Basics/Module 3/0.Public-key cryptography/1.Reading.md",
-    "Coursera Blockchain Basics/Module 3/0.Public-key cryptography/attachments/index_3.mp4",
-    "Coursera Blockchain Basics/Link.md",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/attachments/index_2.mp4",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/attachments",
-    "Coursera Blockchain Basics/Module 3/1.Hashing/2.Quiz.md",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity",
-    "Coursera Blockchain Basics/Module 3/1.Hashing/1.Reading.md",
-    "IDP/Important Links.md",
-    "Coursera Blockchain Basics/Module 3/1.Hashing/0.Video.md",
-    "Coursera Blockchain Basics/Module 3/1.Hashing/attachments/index.mp4",
-    "Coursera Blockchain Basics/Module 3/0.Public-key cryptography/2.quiz.md",
-    "Coursera Blockchain Basics/Module 2/4.Quiz/Quiz.md",
-    "Coursera Blockchain Basics/Untitled.md",
-    "Coursera Blockchain Basics/Module 2/4.Quiz/0.Reading.md",
-    "Coursera Blockchain Basics/Module 2/3.Incentive Model/2.Quiz.md",
-    "Coursera Blockchain Basics/Module 2/3.Incentive Model/1.Reading.md",
-    "Coursera Blockchain Basics/Module 2/3.Incentive Model/0.Video.md",
-    "Coursera Blockchain Basics/Module 2/2.Ethereum Operations/2.Quiz.md",
-    "Coursera Blockchain Basics/Module 2/2.Ethereum Operations/1.Reading.md",
     "Untitled.canvas"
   ]
 }
