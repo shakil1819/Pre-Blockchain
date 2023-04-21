@@ -11,8 +11,13 @@
             "id": "11d905bed3c83ed6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Blockchain Basics/Accomplishment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Coursera Blockchain Basics/Accomplishment.md"
+              }
             }
           },
           {
@@ -136,6 +143,10 @@
   },
   "active": "11d905bed3c83ed6",
   "lastOpenFiles": [
+    "Coursera Blockchain Basics/Coursera UMSHWQ7LT8KX.pdf",
+    "Coursera Blockchain Basics/attachments/Pasted image 20230421163355.png",
+    "Coursera Blockchain Basics/attachments",
+    "Coursera Blockchain Basics/Accomplishment.md",
     "Coursera Blockchain Basics/Module 4/5.Final Course Project/About.md",
     "Coursera Blockchain Basics/Module 4/5.Final Course Project/attachments/Pasted image 20230421122954.png",
     "Coursera Blockchain Basics/Module 4/5.Final Course Project/attachments",
@@ -150,7 +161,6 @@
     "Coursera Blockchain Basics/Module 4/5.Final Course Project/Submitting your files/Addendum-Submitting-your-files.pdf",
     "Coursera Blockchain Basics/Module 4/5.Final Course Project/Submitting your files",
     "Coursera Blockchain Basics/Module 4/5.Final Course Project/Step 1",
-    "Coursera Blockchain Basics/Module 4/5.Final Course Project/Step 2/Blockchain_Basic_Project_July_19_2021.pdf",
     "Coursera Blockchain Basics/Module 4/4. Week 4 Evaluation/attachments/Pasted image 20230421121720.png",
     "Coursera Blockchain Basics/Module 4/4. Week 4 Evaluation/attachments/Pasted image 20230421121552.png",
     "Coursera Blockchain Basics/Module 4/3.Forks/0.Video.md",
@@ -164,7 +174,6 @@
     "Coursera Blockchain Basics/Module 4/2.Robustness/1.reading.md",
     "Coursera Blockchain Basics/Module 4/2.Robustness/2.quiz.md",
     "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/Pasted image 20230421120125.png",
-    "Coursera Blockchain Basics/Module 4/2.Robustness/attachments/Pasted image 20230421115559.png",
     "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/2.quiz.md",
     "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/1.Reading.md",
     "Coursera Blockchain Basics/Module 4/1.Consensus Protocol/0.1 video 2.md",
@@ -180,7 +189,6 @@
     "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/2.Quiz.md",
     "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/1.Reading.md",
     "Coursera Blockchain Basics/Module 3/3.Securing Blockchain/0.Video.md",
-    "Coursera Blockchain Basics/Module 3/2.Transaction Integrity/2.Quiz.md",
     "Untitled.canvas"
   ]
 }
